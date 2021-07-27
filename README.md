@@ -2,6 +2,8 @@
 
 > It was completely build with MERN stack and Redux (MongoDB, Express, React, Node)
 
+This is the Link for viewing the project [Gunashop online store] (https://guna-online-store.herokuapp.com/)
+
 ![screenshot](https://github.com/gunacodingeverest/Ecommerce-website.git/blob/master/uploads/image-1627365056043.png)
 
 ## Features In this Ecommerce Project
